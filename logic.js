@@ -42,7 +42,7 @@ function cellClicked(e){
     checkWhoWon(0,4,8)
     checkWhoWon(2,4,6)
 
-    if(gameRemaining == false)
+    if(!gameRemaining)
         cells.forEach(cell => cell.removeEventListener("click", cellClicked)) 
     
   
