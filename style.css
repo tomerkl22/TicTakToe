@@ -22,6 +22,7 @@ body {
 }
 
 .cell {
+	font-size: 60px;
 	width: var(--cell-size);
 	height: var(--cell-size);
 	border: 1px solid black;
