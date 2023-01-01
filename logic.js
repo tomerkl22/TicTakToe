@@ -67,11 +67,11 @@ function restartTheGame(){
 function checkWinner(cell){
     if (cell == playerO){
        winningMessage.style.fontWeight = 'bold'
-       winningMessage.innerHTML = "Player O WON"
+       winningMessage.innerHTML = "Player O WON!"
     }
     else{
        winningMessage.style.fontWeight = 'bold'
-       winningMessage.innerHTML = "Player W WON"
+       winningMessage.innerHTML = "Player W WON!"
     }
 }
 

@@ -35,6 +35,8 @@ body {
 
 .winning-message{
 	text-align: center;
+	position: static;
+	font-size: 40px;
 }
 
 #Turn-text{
