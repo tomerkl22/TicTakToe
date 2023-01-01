@@ -9,4 +9,4 @@ If all of the spaces on the grid are filled and no player has won, the game is a
 
 Link -  https://tomerkl22.github.io/TicTakToe/
 
-![image](https://user-images.githubusercontent.com/94317058/210152780-bcef444f-ed4d-45a8-84bf-81b8accd58d5.png)
+![image](https://user-images.githubusercontent.com/94317058/210187543-6e79a297-4b79-4ca9-bdbc-42e38371dd2f.png)
